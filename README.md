@@ -1,4 +1,4 @@
-# Project Name: HomesScraper
+# HomesScraper
 
 **Project Description:**
 This undertaking was initiated from the ground up, on behalf of a client. It was a Real Estate website having information about houses.
